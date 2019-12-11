@@ -1959,7 +1959,7 @@ background: linear-gradient(0deg, rgba(79,76,130,1) 0%, rgba(34,138,255,1) 69%, 
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #18242c;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
